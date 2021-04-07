@@ -1,2 +1,2 @@
 # InserindoDados
- Programação C# básico - Inserindo dados 
+ Programa Básico em C#  - Inserindo dados. Obs: Dentro da Subpastas obj/Debug , tem o programa executavel
